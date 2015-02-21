@@ -1,0 +1,22 @@
+{
+  "name": "halver",
+  "version": "0.0.0",
+  "description": "Views shared on the client and server with React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ascott1/halver.git"
+  },
+  "author": "Adam D. Scott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ascott1/halver/issues"
+  },
+  "homepage": "https://github.com/ascott1/halver",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
